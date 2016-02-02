@@ -4,8 +4,15 @@
         <description><![CDATA[Pause]]></description>
         <link>https://thegrid.ai/pause/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 16:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 16:12:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pause/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pause Fest 2016 - Melbourne]]></title>
+            <description><![CDATA[<article><h1>Pause Fest 2016 - Melbourne</h1><p>Pivotal to the successful launch of any business start-up, Pause Fest's Tech day is certain to capture the minds, focus and imaginations of attendees as it inspires them to move forward and attain new, inventive and innovative collaborations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6aebc1b5a48f7392850ba2813bc672f4ecdc4a31.jpg"></article>]]></description>
+            <link>http://www.pausefest.com.au/news/tech-day-develop-successful-products-creative-and-collective-collaborations-in-tech/</link>
+            <guid isPermaLink="false">143b19b6-83b3-4c3b-9e09-afaa5ca8b1a8</guid>
+            <pubDate>Tue, 02 Feb 2016 16:11:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Want to know the future&quest; &commat;pausefest speakers tell us what will be big this year &gt; http&colon;&sol;&sol;bit&period;ly&sol;1nJ3ya6" src="https://pbs.twimg.com/media/CaKMmFMWYAoT78q.jpg:large">]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=RhzAooDPnIQ</link>
             <guid isPermaLink="false">9047c332-44c9-4dd3-97c2-1fc468524d9e</guid>
             <pubDate>Tue, 02 Feb 2016 16:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pause Fest 2016 - Melbourne]]></title>
-            <description><![CDATA[<article><h1>Pause Fest 2016 - Melbourne</h1><p>Pivotal to the successful launch of any business start-up, Pause Fest's Tech day is certain to capture the minds, focus and imaginations of attendees as it inspires them to move forward and attain new, inventive and innovative collaborations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6aebc1b5a48f7392850ba2813bc672f4ecdc4a31.jpg"></article>]]></description>
-            <link>http://www.pausefest.com.au/news/tech-day-develop-successful-products-creative-and-collective-collaborations-in-tech/</link>
-            <guid isPermaLink="false">143b19b6-83b3-4c3b-9e09-afaa5ca8b1a8</guid>
-            <pubDate>Tue, 02 Feb 2016 16:04:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

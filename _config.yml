@@ -1,6 +1,6 @@
 name: Pause
 favicon: null
-layout_spectrum: 0.7388749977108091
+layout_spectrum: 0.47862
 typography_spectrum: 0.39174824650399387
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#4c4c4c'
   brandStrength: 0.45078392908908427
-  lightness: 1
-  saturation: 1
+  lightness: 0.625
+  saturation: 0.4375
   rhythmicContrast: 0.75
 purpose: []

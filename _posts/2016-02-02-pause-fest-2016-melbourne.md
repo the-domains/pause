@@ -17,7 +17,7 @@ keywords:
   - zoo
   - digital
 description: "Pivotal to the successful launch of any business start-up, Pause Fest's Tech day is certain to capture the minds, focus and imaginations of attendees as it inspires them to move forward and attain new, inventive and innovative collaborations."
-datePublished: '2016-02-02T16:04:29.035Z'
+datePublished: '2016-02-02T16:04:29.070Z'
 dateModified: '2016-02-02T16:04:26.256Z'
 author: []
 related: []

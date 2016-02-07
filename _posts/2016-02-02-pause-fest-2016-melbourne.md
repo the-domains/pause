@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.pausefest.com.au/news/tech-day-develop-successful-products-creative-and-collective-collaborations-in-tech/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - creative
   - tech
@@ -17,8 +17,8 @@ keywords:
   - zoo
   - digital
 description: "Pivotal to the successful launch of any business start-up, Pause Fest's Tech day is certain to capture the minds, focus and imaginations of attendees as it inspires them to move forward and attain new, inventive and innovative collaborations."
-datePublished: '2016-02-03T19:16:15.567Z'
-dateModified: '2016-02-03T16:51:45.834Z'
+datePublished: '2016-02-07T07:03:12.895Z'
+dateModified: '2016-02-07T07:03:08.773Z'
 author: []
 related: []
 app_links: []

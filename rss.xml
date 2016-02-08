@@ -4,7 +4,7 @@
         <description><![CDATA[Pause Fest]]></description>
         <link>http://pausefest.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 22:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 22:45:20 GMT</lastBuildDate>
         <atom:link href="http://pausefest.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://pausefest.today/19841e32-4cbf-4e1f-953c-d6ad09ae0888/index.html</link>
             <guid isPermaLink="false">19841e32-4cbf-4e1f-953c-d6ad09ae0888</guid>
             <pubDate>Mon, 08 Feb 2016 11:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The countdown is over! It's time to disrupt the status quo and challenge what you thought you knew. Pause Fest 2016 starts tomorrow. It's time to Pause. For last minute ticket purchases visit www.pause.melbourne #PauseFest #pause2016 #PauseDiscover]]></title>
+            <description><![CDATA[<article><h1>The countdown is over! It's time to disrupt the status quo and challenge what you thought you knew. Pause Fest 2016 starts tomorrow. It's time to Pause. For last minute ticket purchases visit www.pause.melbourne #PauseFest #pause2016 #PauseDiscover</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89b86c70e0ce5c13c2b5c1af9aa1c51d8b340b4.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BBeUGZ3H5BS/?taken-by=pausefest</link>
+            <guid isPermaLink="false">9e42acb0-5cc9-4c29-ad5b-e2e1b70e70a9</guid>
+            <pubDate>Mon, 08 Feb 2016 22:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BBeMQFQgpkW/?tagged=pausefest2016</link>
             <guid isPermaLink="false">9d6bcb4f-e008-459b-97da-85536dbe8e05</guid>
             <pubDate>Mon, 08 Feb 2016 21:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>DAY 1 // #Pause2016 // See today's schedule: http://pausefe.st/monday</p>]]></description>
-            <link>https://twitter.com/PauseFest/status/696446106843136001</link>
-            <guid isPermaLink="false">073a88eb-33c5-41db-895b-cb95dc7aab08</guid>
-            <pubDate>Mon, 08 Feb 2016 10:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

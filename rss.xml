@@ -4,7 +4,7 @@
         <description><![CDATA[Pause Fest]]></description>
         <link>http://pausefest.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 22:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 22:52:29 GMT</lastBuildDate>
         <atom:link href="http://pausefest.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://pausefest.today/19841e32-4cbf-4e1f-953c-d6ad09ae0888/index.html</link>
             <guid isPermaLink="false">19841e32-4cbf-4e1f-953c-d6ad09ae0888</guid>
             <pubDate>Mon, 08 Feb 2016 11:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>DAY 2 // #Pause2016 // See today's schedule: http://pausefe.st/tuesday</p>]]></description>
+            <link>https://twitter.com/PauseFest/status/696808562568380418</link>
+            <guid isPermaLink="false">71d61d17-6074-4456-86c2-cfe6fc1a2434</guid>
+            <pubDate>Mon, 08 Feb 2016 22:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pause 2016 Motion Response - Transcendence by Territory]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jongold/status/696766631830274048</link>
             <guid isPermaLink="false">9984e920-02e9-4a52-9c0f-96eb586f58f7</guid>
             <pubDate>Mon, 08 Feb 2016 21:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Time to hit PAUSE &period; &commat;PauseFest &num;pausediscover &num;53pencil" src="https://pbs.twimg.com/media/CauAcDQUEAAfxXM.jpg:large">]]></description>
-            <link>https://twitter.com/brookewynndom/status/696791797851246594</link>
-            <guid isPermaLink="false">3f7cede2-c3ec-4f1c-a1f0-42e1da0decf4</guid>
-            <pubDate>Mon, 08 Feb 2016 21:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

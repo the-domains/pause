@@ -1,6 +1,6 @@
 name: Pause
 favicon: null
-layout_spectrum: 0.51385
+layout_spectrum: 0.58032
 typography_spectrum: 0.20131
 title: Pause Fest
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ffffff'
     - '#4c4c4c'
   brandStrength: 0
-  lightness: 0.6875
+  lightness: 0.75
   saturation: 1
   rhythmicContrast: 0.75
 purpose: []

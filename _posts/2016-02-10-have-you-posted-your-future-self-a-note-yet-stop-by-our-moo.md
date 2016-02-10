@@ -19,10 +19,10 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/BBlqH4jH5Ow/'
+isBasedOnUrl: 'https://www.instagram.com/p/BBlqH4jH5Ow/?taken-by=pausefest'
 title: 'Have you posted your future self a note yet? Stop by our MOOsaic, write down your hopes and dreams on a postcard, address it to yourself and put it in the mailbox. In 12 months, @moo will post it to you!'
-datePublished: '2016-02-10T02:39:19.123Z'
-dateModified: '2016-02-10T02:32:25.510Z'
+datePublished: '2016-02-10T02:51:11.787Z'
+dateModified: '2016-02-10T02:31:02.484Z'
 sourcePath: _posts/2016-02-10-have-you-posted-your-future-self-a-note-yet-stop-by-our-moo.md
 published: true
 inFeed: true

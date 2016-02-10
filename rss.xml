@@ -4,7 +4,7 @@
         <description><![CDATA[Pause Fest]]></description>
         <link>http://pausefest.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 01:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 02:32:56 GMT</lastBuildDate>
         <atom:link href="http://pausefest.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://thegr.id/1QLoAyn</link>
             <guid isPermaLink="false">8ad51c15-b398-43fd-b0f7-3d1617f76fbd</guid>
             <pubDate>Tue, 09 Feb 2016 07:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Very vibrant and inspiring talk by Alice Kimberley from &commat;VICEAU &num;Pause2016 &commat;PauseFest" src="https://pbs.twimg.com/media/Ca0MT31VIAANW0d.jpg:large">]]></description>
+            <link>https://twitter.com/Robin_Riddell/status/697227061375561728</link>
+            <guid isPermaLink="false">0643fc87-f4ec-43a1-8732-231144fba44c</guid>
+            <pubDate>Wed, 10 Feb 2016 02:31:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BBjFsMsHGB4/?tagged=pausefest</link>
             <guid isPermaLink="false">73308112-91a5-4ed9-b6db-8a3278a94ef5</guid>
             <pubDate>Tue, 09 Feb 2016 06:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>DAY 2 // #Pause2016 // See today's schedule: http://pausefe.st/tuesday</p>]]></description>
-            <link>https://twitter.com/PauseFest/status/696808562568380418</link>
-            <guid isPermaLink="false">71d61d17-6074-4456-86c2-cfe6fc1a2434</guid>
-            <pubDate>Tue, 09 Feb 2016 02:06:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

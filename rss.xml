@@ -4,7 +4,7 @@
         <description><![CDATA[Pause Fest]]></description>
         <link>http://pausefest.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 09:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 23:27:43 GMT</lastBuildDate>
         <atom:link href="http://pausefest.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://thegr.id/1QLoAyn</link>
             <guid isPermaLink="false">8ad51c15-b398-43fd-b0f7-3d1617f76fbd</guid>
             <pubDate>Tue, 09 Feb 2016 07:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Great start to Tech Day at &commat;PauseFest hearing from a panel of women leading the digital game &num;Pause2016 &num;womenintech" src="https://pbs.twimg.com/media/Ca461WlVIAAdKWj.jpg:large">]]></description>
+            <link>https://twitter.com/twenty4_digital/status/697559744274280448</link>
+            <guid isPermaLink="false">8d8d1d8a-9d09-4407-b9ea-0bef267b320f</guid>
+            <pubDate>Wed, 10 Feb 2016 23:26:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/IEagency/status/697181057842458625</link>
             <guid isPermaLink="false">6bcc2dcb-003b-4a5e-bdfd-a12ff3fa9319</guid>
             <pubDate>Wed, 10 Feb 2016 00:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>DAY 3 // CREATIVE DAY // #Pause2016 // See today's schedule: http://pausefe.st/wednesday</p>]]></description>
-            <link>https://twitter.com/PauseFest/status/697171010957811712</link>
-            <guid isPermaLink="false">d2ef3794-460b-412d-8810-c4228907fa94</guid>
-            <pubDate>Tue, 09 Feb 2016 22:09:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

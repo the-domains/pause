@@ -4,7 +4,7 @@
         <description><![CDATA[Pause Fest]]></description>
         <link>http://pausefest.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 11:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 23:50:50 GMT</lastBuildDate>
         <atom:link href="http://pausefest.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,6 +15,20 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Day two of &num;AusPostTweetFund has begun&excl; Stay tuned for today&apos;s pitches coming at you from &commat;PauseFest&period;" src="https://pbs.twimg.com/media/Ca1Mn1wUUAE9PC6.jpg:large">]]></description>
+            <link>https://twitter.com/auspost/status/697918069901914112</link>
+            <guid isPermaLink="false">cd746af7-6a2d-4fef-9775-feee28de8087</guid>
+            <pubDate>Thu, 11 Feb 2016 23:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"People feel better if you give a sh*t about them" @jimilaw @envato #peoplepower #HR #happiness #businessday #PauseDiscover #Pause2016</p>]]></description>
+            <link>https://twitter.com/PauseFest/status/697918032753000449</link>
+            <guid isPermaLink="false">c013dee1-2637-4d05-8e6a-75efa5ff1b28</guid>
+            <pubDate>Thu, 11 Feb 2016 23:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&quot;Advertising is dead&period;&period;&period;long live the idea&quot;-Lain Nealie from &commat;google Zoo &num;Pause2016" src="https://pbs.twimg.com/media/Ca48dUTUUAAlaBj.jpg:large">]]></description>
             <link>https://twitter.com/jefnjul/status/697561492665675776</link>
             <guid isPermaLink="false">995664fa-2024-4938-a76d-42ee48eafd0b</guid>
@@ -22,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Is AI the future of web design? - Envato Community]]></title>
-            <description><![CDATA[<article><h1>Is AI the future of web design? - Envato Community</h1><p>The Grid. You've probably heard of it. It's a new form of website design, currently still in development, whose big selling point is that it uses artificial intelligence to both design and decide the hierarchy of content on the website. It's been running seemingly endless advertising for nearly a year, with countless banner ads and...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f6c5c25a01e0fe59a457648be66f29cbc777a7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Is AI the future of web design? - Envato Community</h1><p>The Grid. You've probably heard of it. It's a new form of website design, currently still in development, whose big selling point is that it uses artificial intelligence to both design and decide the hierarchy of content on the website. It's been running seemingly endless advertising for nearly a year, with countless banner ads and...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6143911f103b711a44d389846bd3d15be427441d.png"></article>]]></description>
             <link>http://community.envato.com/is-ai-the-future-of-web-design/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=community_content_social</link>
             <guid isPermaLink="false">021f5607-e0e1-4bd8-8da2-a93d72dc181d</guid>
             <pubDate>Thu, 11 Feb 2016 06:58:28 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/ko_rourke/status/697303993433792512</link>
             <guid isPermaLink="false">c6aa75f8-bcc6-4994-9bc7-8642216d7f64</guid>
             <pubDate>Wed, 10 Feb 2016 07:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;MOO is building their MOOzaik&period; Please take a postcard and send it to yourself next year&period; &num;creative &num;pause2016" src="https://pbs.twimg.com/media/Caz8kidUsAAQmuG.jpg:large">]]></description>
-            <link>https://twitter.com/pausefest/status/697209778360090624</link>
-            <guid isPermaLink="false">4fb07e80-64fa-4b85-95e9-698061b0c8f8</guid>
-            <pubDate>Wed, 10 Feb 2016 04:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"Dump somebody". Finbar O'Hanlon delivers the best piece of advice of the day @PauseFest #Pause2016</p>]]></description>
-            <link>https://twitter.com/LukevanO/status/697239714986733568</link>
-            <guid isPermaLink="false">8576e7b0-27a8-431a-b1cb-055d6b62554a</guid>
-            <pubDate>Wed, 10 Feb 2016 02:51:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

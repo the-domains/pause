@@ -2,6 +2,7 @@ name: Pause
 favicon: null
 layout_spectrum: 0.12318
 typography_spectrum: 0.20131
+style: the-composer
 title: Pause Fest
 cta:
   domain: null
